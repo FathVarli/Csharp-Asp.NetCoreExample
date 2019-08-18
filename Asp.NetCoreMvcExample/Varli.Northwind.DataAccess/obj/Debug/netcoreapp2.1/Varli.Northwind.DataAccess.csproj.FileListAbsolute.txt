@@ -1,0 +1,14 @@
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Varli.Core.dll
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Varli.Northwind.Entities.dll
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Varli.Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Varli.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Varli.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Varli.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Varli.Northwind.DataAccess.deps.json
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Varli.Northwind.DataAccess.dll
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Varli.Northwind.DataAccess.pdb
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Varli.Core.pdb
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Varli.Northwind.Entities.pdb
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Varli.Northwind.DataAccess.csproj.CopyComplete
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Varli.Northwind.DataAccess.dll
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Varli.Northwind.DataAccess.pdb

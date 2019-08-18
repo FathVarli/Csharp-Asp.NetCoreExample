@@ -1,0 +1,12 @@
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.Entities\bin\Debug\netcoreapp2.1\Varli.Northwind.Entities.deps.json
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.Entities\bin\Debug\netcoreapp2.1\Varli.Northwind.Entities.dll
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.Entities\bin\Debug\netcoreapp2.1\Varli.Northwind.Entities.pdb
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.Entities\bin\Debug\netcoreapp2.1\Varli.Core.dll
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.Entities\bin\Debug\netcoreapp2.1\Varli.Core.pdb
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.Entities\obj\Debug\netcoreapp2.1\Varli.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.Entities\obj\Debug\netcoreapp2.1\Varli.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.Entities\obj\Debug\netcoreapp2.1\Varli.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.Entities\obj\Debug\netcoreapp2.1\Varli.Northwind.Entities.AssemblyInfo.cs
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.Entities\obj\Debug\netcoreapp2.1\Varli.Northwind.Entities.csproj.CopyComplete
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.Entities\obj\Debug\netcoreapp2.1\Varli.Northwind.Entities.dll
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Northwind.Entities\obj\Debug\netcoreapp2.1\Varli.Northwind.Entities.pdb

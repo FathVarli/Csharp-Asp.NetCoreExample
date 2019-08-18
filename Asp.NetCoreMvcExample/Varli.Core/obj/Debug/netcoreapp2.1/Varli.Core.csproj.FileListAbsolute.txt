@@ -1,0 +1,9 @@
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Core\bin\Debug\netcoreapp2.1\Varli.Core.deps.json
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Core\bin\Debug\netcoreapp2.1\Varli.Core.dll
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Core\obj\Debug\netcoreapp2.1\Varli.Core.csprojAssemblyReference.cache
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Core\obj\Debug\netcoreapp2.1\Varli.Core.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Core\obj\Debug\netcoreapp2.1\Varli.Core.AssemblyInfoInputs.cache
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Core\obj\Debug\netcoreapp2.1\Varli.Core.AssemblyInfo.cs
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Core\bin\Debug\netcoreapp2.1\Varli.Core.pdb
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Core\obj\Debug\netcoreapp2.1\Varli.Core.dll
+C:\Users\kaleh\source\repos\Asp.NetCoreMvcExample\Varli.Core\obj\Debug\netcoreapp2.1\Varli.Core.pdb
