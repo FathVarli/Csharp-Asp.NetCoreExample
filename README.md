@@ -1,1 +1,1 @@
-# Csharp-Asp.NetCoreMvcExample
+# Csharp-Asp.NetCoreExample
